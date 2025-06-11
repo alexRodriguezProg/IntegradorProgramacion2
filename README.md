@@ -18,8 +18,10 @@ CREATE TABLE empresa (
 ### Integrantes del Proyecto:
 - Alex Rodriguez
 
-- Enzo Bevilacqua
+- Ignacio Bevilacqua
 
+- Enzo Cercola
+  
 - Manuel Rivas
 
 - Joaquin Cosentino
